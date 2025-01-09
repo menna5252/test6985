@@ -1,4 +1,4 @@
-import ConstantComponent from "./constantComponent";
+import ConstantComponent from "./ConstantComponent";
 
 function About() {
   return (
