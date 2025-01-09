@@ -1,5 +1,5 @@
 import homeImage from "../photo/Screenshot (7).png";
-import ConstantComponent from "./constantComponent";
+import ConstantComponent from "./ConstantComponent";
 
 function Home() {
   return (
